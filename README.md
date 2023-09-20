@@ -8,3 +8,4 @@
 
 ## The Power of DevOps in the Real World
 - ### The Power of DevOps in the Real World - v5.pdf
+- ### The Power of DevOps in the Real World - v5 - Short.pdf
