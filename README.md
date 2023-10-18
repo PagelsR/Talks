@@ -1,10 +1,10 @@
 # Conference Talks
 
 ## Shift Left on Security with GitHub and Azure DevOps
-- ### Shift Left on Security with GitHub and Azure DevOps-v3.pdf
-- 
+- ### Shift Left on Security with GitHub and Azure DevOps.pdf
+
 ## Automate your cloud application testing with Playwright
-- ### An Intro to Playwright v3.pdf
+- ### An Intro to Playwright.pdf
 
 ## The AI Revolution Begins Here
 - ### An Intro to OpenAI.pdf
