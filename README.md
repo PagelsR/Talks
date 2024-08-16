@@ -1,11 +1,12 @@
 # Conference Talks
 
+## Master Coding with GitHub Copilot and Chat.pptx
+- ### Soar to New Heights Devs! Master Coding with GitHub Copilot and Chat-v2.pdf
 ## Shift Left on Security with GitHub and Azure DevOps
 - ### Shift Left on Security with GitHub and Azure DevOps-v5.pdf
 
 ## Automate your cloud application testing with Playwright
-- ### An Intro to Playwright.pdf
-- ### Mastering Application Testing with Playwright-v2.pdf
+- ### Mastering Application Testing with Playwright.pdf
 
 ## The AI Revolution Begins Here
 - ### An Intro to OpenAI.pdf
