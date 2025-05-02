@@ -7,6 +7,7 @@
 
 ## Automate your cloud application testing with Playwright
 - ### Mastering Application Testing with Playwright.pdf
+- ### The Power of Playwright-StirTrek2025.pdf
 
 ## The AI Revolution Begins Here
 - ### An Intro to OpenAI.pdf
