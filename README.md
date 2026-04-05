@@ -1,7 +1,7 @@
 # Conference Talks
 
 ### Mission Copilot Autofix - GitHub Advanced Security
-- Mission Copilot Autofix-Securing the World’s Software with GHAS-v2.pdf
+- Mission Copilot Autofix-Securing the World’s Software with GHAS.pdf
 
 ### AI-Driven Development with Azure, OpenAI, and GitHub
 - Modern App Development with Azure - v3.pdf
